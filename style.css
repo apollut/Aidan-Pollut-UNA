@@ -1,0 +1,55 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f3f3f3;
+  color: #222;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+  background: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+}
+
+header {
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Times New Roman', serif;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.tagline {
+  font-style: italic;
+  color: #555;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+article {
+  background-color: rgba(255,255,255,0.85);
+  padding: 1rem;
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+  border-top: 1px solid #aaa;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
